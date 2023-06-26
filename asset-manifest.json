@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/realestate/static/css/main.0ac294c8.css",
+    "main.js": "/realestate/static/js/main.b7e4de77.js",
+    "static/media/pexels-binyamin-mellish-1396132.jpg": "/realestate/static/media/pexels-binyamin-mellish-1396132.e05cdbab362f9b9b5275.jpg",
+    "static/media/pexels-pixabay-259588.jpg": "/realestate/static/media/pexels-pixabay-259588.c6f6c157192b87c4492d.jpg",
+    "static/media/pexels-pixabay-164558.jpg": "/realestate/static/media/pexels-pixabay-164558.0675196324f1e05f2a6f.jpg",
+    "static/media/pexels-luis-yanez-206172.jpg": "/realestate/static/media/pexels-luis-yanez-206172.daef97e74f9db8e22fcb.jpg",
+    "static/media/pexels-pixabay-53610.jpg": "/realestate/static/media/pexels-pixabay-53610.49d920c94db3d02589ec.jpg",
+    "static/media/pexels-photo-106399.jpeg": "/realestate/static/media/pexels-photo-106399.7285455201c22ba1be8d.jpeg",
+    "index.html": "/realestate/index.html",
+    "main.0ac294c8.css.map": "/realestate/static/css/main.0ac294c8.css.map",
+    "main.b7e4de77.js.map": "/realestate/static/js/main.b7e4de77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac294c8.css",
+    "static/js/main.b7e4de77.js"
+  ]
+}
